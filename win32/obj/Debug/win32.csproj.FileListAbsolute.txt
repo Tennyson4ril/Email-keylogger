@@ -1,0 +1,16 @@
+E:\Projects\Windows\winner\winner\bin\Debug\win32.exe.config
+E:\Projects\Windows\winner\winner\obj\Debug\win32.exe
+E:\Projects\Windows\winner\winner\obj\Debug\win32.pdb
+E:\Projects\Windows\win32\win32\bin\Debug\win32.exe.config
+E:\Projects\Windows\win32\win32\obj\Debug\win32.exe
+E:\Projects\Windows\win32\win32\obj\Debug\win32.pdb
+E:\Projects\Windows\win32\win32\bin\Debug\win32.exe
+E:\Projects\Windows\win32\win32\bin\Debug\win32.pdb
+E:\Projects\Windows\win32\win32\obj\Debug\win32.csprojResolveAssemblyReference.cache
+E:\Projects\Windows\С#\win32\win32\bin\Debug\win32.exe.config
+E:\Projects\Windows\С#\win32\win32\bin\Debug\win32.exe
+E:\Projects\Windows\С#\win32\win32\bin\Debug\win32.pdb
+E:\Projects\Windows\С#\win32\win32\obj\Debug\win32.csprojResolveAssemblyReference.cache
+E:\Projects\Windows\С#\win32\win32\obj\Debug\win32.csproj.CoreCompileInputs.cache
+E:\Projects\Windows\С#\win32\win32\obj\Debug\win32.exe
+E:\Projects\Windows\С#\win32\win32\obj\Debug\win32.pdb
